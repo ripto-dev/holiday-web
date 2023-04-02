@@ -1,0 +1,44 @@
+.mainBg{
+    height: 100vh;
+    background: url('../../assets/images/bg/mainbg.jpg');
+    background-size: cover;
+}
+
+.mainIntro{
+    height: 220px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.titleIntro{
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+}
+
+.mainBeach{
+    height: auto;
+    background: url('../../assets/images/bg/mainbg.jpg');
+    background-size: cover;
+}
+
+.mainImage{
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+
+}
+
+.mainWraper{
+
+}
+
+.mainMountain{
+    height: auto;
+    background: url('../../assets/images/bg/mainbg.jpg');
+    background-size: cover;
+}
